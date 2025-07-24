@@ -2,7 +2,7 @@ __author__ = "Weiqi Liu"
 __copyright__ = "Copyright (C) 2025 Weiqi Liu"
 __license__ = "NIEER"
 __version__ = "2025.07"
-__Reference paper__ = "The Evaluation of the Suitability of Potential Evapotranspiration Models for Drought Monitoring based on Observed Pan Evaporation and Potential Evapotranspiration from Eddy Covariance","Allen et al., FAO Irrigation and Drainage Paper No. 56 (FAO56)"
+__Reference paper__ = "Impact of the potential evapotranspiration models on drought monitoring","Allen et al., FAO Irrigation and Drainage Paper No. 56 (FAO56)"
 __Description__ =  A collection of functions for estimating actual and saturation vapour pressure,
              psychrometric constant, atmospheric pressure, and related parameters as per 
              FAO-56 guidelines.
